@@ -23,6 +23,9 @@ The CNN model is structured to effectively learn from and classify grayscale ima
 - **Dropout Layers**: Prevent overfitting by dropping units during training.
 - **Fully Connected Layers**: Perform classification based on learned features.
 
+  <img width="882" alt="Screenshot 2024-08-31 222948" src="https://github.com/user-attachments/assets/ec68ae83-a753-4368-8a59-8b305354a4b0">
+
+
 ## 📊 **Training and Evaluation**
 
 - **Training**: The model is trained with a focus on accuracy and robustness. Techniques like early stopping are used to prevent overfitting and ensure optimal performance.
@@ -34,7 +37,10 @@ The CNN model is structured to effectively learn from and classify grayscale ima
   - 
  <img width="899" alt="h3" src="https://github.com/user-attachments/assets/7085d51d-2090-4ae7-bdd7-61fad8a2fc48">
 
-  - 
+## Evaluation
+
+<img width="530" alt="Screenshot 2024-08-31 223129" src="https://github.com/user-attachments/assets/1d441c45-6817-45ef-8e81-7ad11dbcda3c">
+
 - **Performance**: The model shows strong performance in recognizing hand gestures, with high accuracy on unseen data, demonstrating its generalization capabilities.
 
 ## 🌐 **Deployment**
